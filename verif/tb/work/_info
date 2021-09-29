@@ -1,0 +1,34 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/verifier/workspace/svtb_sram_ahb/verif/tb
+Yahb_slv_if
+DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+!s110 1632905262
+!i10b 1
+!s100 bOIO=GiTzieFT[<66ndI;3
+IOdhjfa`LXgJ6T?^]Xejz10
+VDg1SIo80bB@j0V0VzS_@n1
+!s105 ahb_slv_if_sv_unit
+S1
+R0
+w1632905246
+8ahb_slv_if.sv
+Fahb_slv_if.sv
+L0 4
+OE;L;10.7c;67
+r1
+!s85 0
+31
+!s108 1632905262.000000
+!s107 ahb_slv_if.sv|
+!s90 -sv|ahb_slv_if.sv|
+!i113 0
+o-sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+tCvgOpt 0

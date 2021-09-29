@@ -1,0 +1,21 @@
+Command: vcs -full64 -l comp.log -sverilog -f rtl.f -debug_pp -timescale=1ns/1ns \
+# 一定要把rtl.f文件拷贝到sim目录下面来
+                         Chronologic VCS (TM)
+       Version O-2018.09-SP2_Full64 -- Wed Sep 29 16:55:18 2021
+               Copyright (c) 1991-2018 by Synopsys Inc.
+                         ALL RIGHTS RESERVED
+
+This program is proprietary and confidential information of Synopsys Inc.
+and may be used and disclosed only as authorized in a license agreement
+controlling such use and disclosure.
+
+
+Error-[SFCOR] Source file cannot be opened
+  Source file "ahb_slave_if.v" cannot be opened for reading due to 'No such 
+  file or directory'.
+  Please fix above issue and compile again.
+  
+  
+
+1 error
+CPU time: .091 seconds to compile

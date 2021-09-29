@@ -1,0 +1,106 @@
+0 
+27
+-Mamsrun=
+-Masflags=
+-Mcc=gcc
+-Mcfl= -pipe -fPIC -O -I/opt/synopsys/vcs/vcs-mx/O-2018.09-SP2/include
+-Mcplusplus=g++
+-Mcrt0=
+-Mcrtn=
+-Mcsrc=
+-Mexternalobj=
+-Mldflags= -rdynamic
+-Mobjects= /opt/synopsys/vcs/vcs-mx/O-2018.09-SP2/linux64/lib/libvirsim.so /opt/synopsys/vcs/vcs-mx/O-2018.09-SP2/linux64/lib/liberrorinf.so /opt/synopsys/vcs/vcs-mx/O-2018.09-SP2/linux64/lib/libsnpsmalloc.so /opt/synopsys/vcs/vcs-mx/O-2018.09-SP2/linux64/lib/libvfs.so
+-Mout=simv
+-Msaverestoreobj=/opt/synopsys/vcs/vcs-mx/O-2018.09-SP2/linux64/lib/vcs_save_restore_new.o
+-Msyslibs=-ldl
+-Mvcsaceobjs=
+-Mxcflags= -pipe -fPIC -I/opt/synopsys/vcs/vcs-mx/O-2018.09-SP2/include
+-full64
+-gen_obj
+-picarchive
+-sverilog
+../tb/ahb_slv_if.sv
+./agent/agent.sv
+./driver/driver.sv
+./environment.sv
+./generator/generator.sv
+./transaction.sv
+/opt/synopsys/vcs/vcs-mx/O-2018.09-SP2/linux64/bin/vcs1
+61
+sysc_uni_pwd=/home/verifier/workspace/svtb_sram_ahb/verif/env
+eman_server=eman -get_web_url
+XMODIFIERS=@im=ibus
+XDG_VTNR=1
+XDG_SESSION_TYPE=x11
+XDG_SESSION_ID=1
+XDG_SESSION_DESKTOP=gnome-classic
+XDG_SEAT=seat0
+XDG_RUNTIME_DIR=/run/user/1001
+XDG_MENU_PREFIX=gnome-
+XDG_DATA_DIRS=/home/verifier/.local/share/flatpak/exports/share/:/var/lib/flatpak/exports/share/:/usr/local/share/:/usr/share/
+XDG_CURRENT_DESKTOP=GNOME-Classic:GNOME
+XAUTHORITY=/run/gdm/auth-for-verifier-vgXMvx/database
+WINDOWPATH=1
+VTE_VERSION=5204
+VMR_MODE_FLAG=64
+VERDI_HOME=/opt/synopsys/verdi/verdi/Verdi_O-2018.09-SP2
+VCS_MX_HOME_INTERNAL=1
+VCS_MODE_FLAG=64
+VCS_HOME=/opt/synopsys/vcs/vcs-mx/O-2018.09-SP2
+VCS_DEPTH=0
+VCS_ARG_ADDED_FOR_TMP=1
+VCS_ARCH=linux64
+USERNAME=verifier
+UNAME=/bin/uname
+TOOL_HOME=/opt/synopsys/vcs/vcs-mx/O-2018.09-SP2/linux64
+SSH_AUTH_SOCK=/run/user/1001/keyring/ssh
+SSH_AGENT_PID=3166
+SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/3035,unix/unix:/tmp/.ICE-unix/3035
+SCRNAME=vcs
+SCRIPT_NAME=vcs
+QUESTA_HOME=/opt/mentor/questasim10.7/questasim
+QT_IM_MODULE=ibus
+QT_GRAPHICSSYSTEM_CHECKED=1
+QTLIB=/usr/lib/qt-3.3/lib
+QTINC=/usr/lib/qt-3.3/include
+QTDIR=/usr/lib/qt-3.3
+OVA_UUM=0
+MGLS_LICENSE_FILE=/opt/mentor/questasim10.7/questasim/LICENSE
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+LC_ALL=C
+IMSETTINGS_MODULE=none
+IMSETTINGS_INTEGRATE_DESKTOP=yes
+HISTCONTROL=ignoredups
+GNOME_TERMINAL_SERVICE=:1.155
+GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screen/72d09e11_c6a9_48a0_ab21_9b5e1d801dee
+GNOME_SHELL_SESSION_MODE=classic
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+GDM_LANG=en_US.UTF-8
+GDMSESSION=gnome-classic
+EMAN_SETUP_FILE_DEFAULT=/opt/park/execman_regr/depot/synopsys_eman.setup
+EMAN_HOME=/opt/synopsys/execman/execman/O-2018.09-SP2-7/VMS
+EMAN_ARCH_OVERRIDE=amd64
+DVT_LICENSE_FILE=FLEXLM
+DVT_HOME=/opt/dvt_eclipse/dvt_eclipse
+DVTLMD_LICENSE_FILE=/opt/dvt_eclipse/dvt_eclipse/license.dat
+DESKTOP_SESSION=gnome-classic
+DBUS_STARTER_BUS_TYPE=session
+DBUS_STARTER_ADDRESS=unix:abstract=/tmp/dbus-IkWjdbFvzj,guid=a4a326c728fbf99be15b43a2614fdbe0
+DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-IkWjdbFvzj,guid=a4a326c728fbf99be15b43a2614fdbe0
+COLORTERM=truecolor
+0
+6
+1632905486 ./environment.sv
+1632905452 ./driver/driver.sv
+1632905382 ./agent/agent.sv
+1632905346 ./generator/generator.sv
+1632905287 ./transaction.sv
+1632905246 ../tb/ahb_slv_if.sv
+4
+1551422344 /opt/synopsys/vcs/vcs-mx/O-2018.09-SP2/linux64/lib/libvirsim.so
+1551421792 /opt/synopsys/vcs/vcs-mx/O-2018.09-SP2/linux64/lib/liberrorinf.so
+1551421768 /opt/synopsys/vcs/vcs-mx/O-2018.09-SP2/linux64/lib/libsnpsmalloc.so
+1551421789 /opt/synopsys/vcs/vcs-mx/O-2018.09-SP2/linux64/lib/libvfs.so
+1632905495 simv.daidir
+-1 partitionlib
